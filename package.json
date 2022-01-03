@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.6.0",
+    "axios": "^0.21.4",
+    "botcordtop.js": "^1.0.4",
+    "canvacord": "^5.2.3",
+    "chalk": "^4.1.2",
+    "discord-canvas": "^1.4.1",
+    "discord-welcome-card": "^4.0.3",
+    "discord.js": "^13.1.0",
+    "distube": "^3.0.0-beta.39",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "hyperz-nodelogger": "^3.7.2",
+    "libsodium-wrappers": "^0.7.9",
+    "moment": "^2.29.1",
+    "ms": "^3.0.0-canary.1",
+    "mysql": "^2.18.1",
+    "node-machine-id": "^1.1.12",
+    "path": "^0.12.7",
+    "random-puppy": "^1.1.0",
+    "swiftcord": "^2.1.7"
+  }
+}
